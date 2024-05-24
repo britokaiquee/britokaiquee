@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Kaique Brito :smile: </h1>
 <h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
 
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronouns: him/his
 - 👀 I’m interested in web development and learning new languages like Java in the future
 - 💞️ I’m looking to collaborate on Python and Django projects
 - ⚡ Fun fact: I started programming in March 2024
