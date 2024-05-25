@@ -23,6 +23,10 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Languages:</h3>
+<p align="left"></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britokaiquee&size_weight=0.5&count_weight=0.5&theme=tokyonight" alt="kaiqueb.dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=britokaiquee&show_icons=true&locale=en" alt="kaiqueb.dev" /></p>
+
