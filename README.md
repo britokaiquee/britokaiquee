@@ -2,13 +2,11 @@
 <h1 align="center">Hi, I'm Kaique Brito :smile: </h1>
 <h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
 
-- 👀 I’m interested in web development and learning new languages like Java in the future
-- 💞️ I’m looking to collaborate on Python and Django projects
-- ⚡ Fun fact: I started programming in March 2024
-
 - :seedling: I’m currently learning **Python**
-
 - :mailbox: How to reach me **kaique.brito@gmail.com**
+- 👀 I'm interested in learning the Django framework and new languages like Java in the future
+- 💞️ I'm looking to collaborate on web development projects and job opportunities
+- ⚡ Fun fact: I started programming in March 2024
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
