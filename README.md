@@ -5,7 +5,6 @@
 - :seedling: I’m currently learning **Python**
 - :mailbox: How to reach me **kaique.brito@gmail.com**
 - 👀 I'm interested in learning the Django framework and new languages like Java in the future
-- 💞️ I'm looking to collaborate on web development projects and job opportunities
 - ⚡ Fun fact: I started programming in March 2024
 
 <h3 align="left">Connect with me:</h3>
