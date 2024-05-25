@@ -3,7 +3,6 @@
 <h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
 
 - :seedling: I’m currently learning **Python**
-- :mailbox: How to reach me **kaique.brito@gmail.com**
 - 👀 I'm interested in learning the Django framework and new languages like Java in the future
 - ⚡ Fun fact: I started programming in March 2024
 
