@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/fD8JHfW.png" width="350" height="350"/></p>
+<p align="center"><img src="https://i.imgur.com/ywppOM1.png" width="350" height="350"/></p>
 <h1 align="center">Hi, I'm Kaique Brito :smile: </h1>
 <h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
 
