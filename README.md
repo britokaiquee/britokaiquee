@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.discordapp.net/attachments/1243686921683861575/1243687604252053676/fotinha.png?ex=665261d7&is=66511057&hm=6a090432adc705c499d4677dfb191f871382da9b814cd2452c52aaf3259d066c&=&format=webp&quality=lossless&width=350&height=350"/></p>
+<p align="center"><img src="https://i.imgur.com/8GlMu7P.png" width="350" height="350"/></p>
 <h1 align="center">Hi, I'm Kaique Brito :smile: </h1>
 <h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
 
