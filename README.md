@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/your-repo/your-images-folder/blob/main/your-image.png?raw=true" width="350" height="350"/></p>
+<p align="center"><img src="https://i.imgur.com/fD8JHfW.png" width="350" height="350"/></p>
 <h1 align="center">Hi, I'm Kaique Brito :smile: </h1>
 <h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
 
