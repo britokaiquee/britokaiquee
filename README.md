@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/ywppOM1.png" width="350" height="350"/></p>
+<p align="center"><img src="https://media.discordapp.net/attachments/1243686921683861575/1243687604252053676/fotinha.png?ex=665261d7&is=66511057&hm=6a090432adc705c499d4677dfb191f871382da9b814cd2452c52aaf3259d066c&=&format=webp&quality=lossless&width=350&height=350"/></p>
 <h1 align="center">Hi, I'm Kaique Brito :smile: </h1>
 <h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
 
@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=britokaiquee&size_weight=0.5&count_weight=0.5&theme=tokyonight" alt="kaiqueb.dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=britokaiquee&show_icons=true&theme=tokyonight&locale=en" alt="Kaique Brito's GitHub Stats" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=britokaiquee&show_icons=true&theme=tokyonight&locale=en" alt="Kaique Brito's GitHub Stats" /></p>
