@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi, I'm Kaique Brito :smile: </h1>
+<h1 align="center">Hi, I'm Kaique Brito :smile:</h1>
 <h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
 
 - :seedling: I’m currently learning **Python**
@@ -14,6 +13,7 @@
   <a href="https://www.facebook.com/kaique.goncalvesbrito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a>
   <a href="https://www.youtube.com/channel/UCquSeOXyyPK3txszj5PE90g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/></a>
   <a href="https://discord.com/users/kaique5490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/></a>
+  <a href="https://stackoverflow.com/users/23687936/kaique-brito?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stackoverflow.svg" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Favorite Languages:</h3>
