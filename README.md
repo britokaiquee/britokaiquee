@@ -14,7 +14,7 @@
   <a href="https://www.youtube.com/channel/UCquSeOXyyPK3txszj5PE90g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/></a>
   <a href="https://discord.com/users/kaique5490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/></a>
   <a href="https://stackoverflow.com/users/23687936/kaique-brito?tab=profile" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a" height="30" width="30"/></a>
-  <a href="https://x.com/britokaiquee25" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/X_logo_2023.svg/30px-X_logo_2023.svg.png" height="30" width="30"/></a>
+  <a href="https://x.com/britokaiquee25" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/X_logo_2023.svg/1024px-X_logo_2023.svg.png" height="30" width="30"/></a>
 </p>
 
 <h3 align="left">Favorite Languages:</h3>
