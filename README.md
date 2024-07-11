@@ -14,7 +14,7 @@
   <a href="https://discord.com/users/kaique5490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/></a>
   <a href="https://stackoverflow.com/users/23687936/kaique-brito?tab=profile" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a" height="30" width="30"/></a>
   <a href="https://x.com/britokaiquee25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="30" width="30"/></a>
-  <a href="https://www.threads.net/@kaiito.dev" target="blank"><img align="center" src="https://www.threads.net/assets/img/favicon.png" height="30" width="30"/></a>
+  <a href="https://www.threads.net/@kaiito.dev" target="blank"><img align="center" src="https://www.threads.net/assets/img/icon.png" height="30" width="30"/></a>
   <a href="https://www.tiktok.com/@kaiquebritooficial0?_t=8np917mQx8Q&_r=1" target="blank"><img align="center" src="https://www.tiktok.com/favicon.ico" height="30" width="30"/></a>
 </p>
 
