@@ -8,11 +8,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="http://www.linkedin.com/in/kaique-brito-bb8ba02b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+  <a href="https://discord.com/users/kaique5490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/></a>
   <a href="https://instagram.com/kaiqueb.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaiqueb.dev" height="30" width="40" /></a>
   <a href="https://www.threads.net/@kaiito.dev" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/4000/PNG/512/threads_logo_threads_square_icon_255049.png" height="30" width="30"/></a>
   <a href="https://www.facebook.com/kaique.goncalvesbrito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a>
   <a href="https://www.youtube.com/channel/UCquSeOXyyPK3txszj5PE90g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/></a>
-  <a href="https://discord.com/users/kaique5490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/></a>
   <a href="https://stackoverflow.com/users/23687936/kaique-brito?tab=profile" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a" height="30" width="30"/></a>
   <a href="https://x.com/britokaiquee25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="30" width="30"/></a>
   <a href="https://www.tiktok.com/@kaiquebritooficial0?_t=8np917mQx8Q&_r=1" target="blank"><img align="center" src="https://www.tiktok.com/favicon.ico" height="30" width="30"/></a>
