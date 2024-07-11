@@ -17,6 +17,7 @@
   <a href="https://www.threads.net/@kaiito.dev" target="blank"><img align="center" src="https://www.threads.net/assets/img/favicon.png" height="30" width="30"/></a>
   <a href="https://www.tiktok.com/@kaiquebritooficial0?_t=8np917mQx8Q&_r=1" target="blank"><img align="center" src="https://www.tiktok.com/favicon.ico" height="30" width="30"/></a>
 </p>
+
 <h3 align="left">Favorite Languages:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
