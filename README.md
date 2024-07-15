@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="http://www.linkedin.com/in/kaique-brito-bb8ba02b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-  <a href="https://discord.com/users/kaique5490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/></a>
+  <a href="https://discord.com/users/530402402499821589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40"/></a>
   <a href="https://www.instagram.com/kaiito.dev?igsh=czJtcXN5cDgwYXl1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaiqueb.dev" height="30" width="40" /></a>
   <a href="https://www.threads.net/@kaiito.dev" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/4000/PNG/512/threads_logo_threads_square_icon_255049.png" height="30" width="30"/></a>
   <a href="https://www.facebook.com/kaique.goncalvesbrito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a>
