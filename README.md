@@ -2,8 +2,8 @@
 <h3 align="center">A passionate developer from Brazil</h3>
 
 - :seedling: I’m currently learning Python
-- 👀 I'm interested in learning the Django framework and new languages in the future
-- ⚡ Fun fact: I started programming in March 2024
+- 👀 I'm interested in mobile and fullstack development
+- ⚡ Fun fact: I started programming in March 2024 and my first programming language was Python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
